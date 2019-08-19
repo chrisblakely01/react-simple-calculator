@@ -4,7 +4,7 @@ import './App.css';
 
 function App() {
 	return (
-			<div className="calculator-container">
+			<div className="calculator">
 				<div className="row">
 					<div className="col display-container">0</div>
 				</div>

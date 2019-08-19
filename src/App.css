@@ -1,16 +1,18 @@
-.calculator-container {
-	height: 200px;
-	width: 200px;
-	padding-right: 15px;
+.calculator {
+    height: 170px;
+    width: 200px;
+    padding-right: 15px;
     padding-left: 15px;
-	background-color: #e0e0e0;
+    background-color: #e0e0e0;
+    margin: 10px;
 }
 
 .display-container{
 	height: 50px;
 	display: flex;
     justify-content: flex-end;
-    align-items: center;
+	align-items: center;
+	border-style: solid;
 }
 
 .button-container{

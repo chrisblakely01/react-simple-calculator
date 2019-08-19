@@ -1,0 +1,21 @@
+.calculator-container {
+	height: 200px;
+	width: 200px;
+	padding-right: 15px;
+    padding-left: 15px;
+	background-color: #e0e0e0;
+}
+
+.display-container{
+	height: 50px;
+	display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.button-container{
+	display: flex;
+    justify-content: center;
+	align-items: center;
+	border-style: solid;
+}
